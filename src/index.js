@@ -9,4 +9,8 @@ ReactDOM.render(
   <GifExpertApp />,
   document.getElementById('root')
 );
+/*
+  Tareas : 
+  1. configurar Enzyme 
 
+  */
