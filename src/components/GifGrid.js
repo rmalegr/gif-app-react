@@ -15,6 +15,7 @@ export const GifGrid = ({ category }) => {
             <div className="card-grid">
                 
                 {
+                    // Images App comentario 
                     images.map( img => (
                         <GifGridItem 
                             key={ img.id }
